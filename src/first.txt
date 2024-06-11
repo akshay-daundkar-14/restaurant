@@ -3,3 +3,4 @@
 this is test file to learn git & github
 
 this line is added in FIRST BRANCH 
+this line of code added in branch -2
