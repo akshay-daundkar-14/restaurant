@@ -1,0 +1,61 @@
+{
+  "user": [
+    {
+      "name": "Akshay",
+      "email": "akshaydaundkar2000@gmail.com",
+      "password": "Akshay@123",
+      "id": "563d"
+    },
+    {
+      "id": "5a43",
+      "name": "Abhishek",
+      "email": "abhishekdaundkar4131@gmail.com",
+      "password": "Abhishek@123"
+    },
+    {
+      "id": "da50",
+      "name": "Akx",
+      "email": "akshaydaundkar2000@gmail.com",
+      "pass": "Akx@123"
+    },
+    {
+      "id": "eabb",
+      "name": "Akshay",
+      "email": "akshay@gmail.com",
+      "pass": "Akshay@123"
+    }
+  ],
+  "Restaurant": [
+    {
+      "id": "1",
+      "title": "Delicious Bistro",
+      "contact": "1234",
+      "description": "Experience the finest culinary delights with a touch of elegance and comfort. Our chefs use the freshest ingredients to create mouth-watering dishes.",
+      "location": "123 Food Street, Gourmet City",
+      "rating": "4"
+    },
+    {
+      "id": "2",
+      "title": "KFC v.02",
+      "description": "Savor the exquisite flavors crafted by our talented chefs, blending tradition and innovation in every bite.",
+      "rating": "3",
+      "location": "456 Food Street, Pune City"
+    },
+    {
+      "id": "3",
+      "title": "Pizza Hut",
+      "contact": "9012",
+      "description": "Delight in a dining experience where every dish is a masterpiece, made with passion and the freshest produce.",
+      "location": "789 Food Street, Nashik City",
+      "rating": "2"
+    },
+    {
+      "id": "4",
+      "title": "McDownalds",
+      "contact": "3456",
+      "description": "Relish in the harmonious blend of luxury and flavor, where each meal is a celebration of culinary artistry.",
+      "location": "012 Food Street, Mumbai City",
+      "rating": "5"
+    }
+  ]
+}
