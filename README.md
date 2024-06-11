@@ -2,7 +2,7 @@
 
 ## GIF Demo
 
-![Demo](./assets/vdo.gif)
+![Demo](./src/assets/vdo.gif)
 
 
 ## Project setup
