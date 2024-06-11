@@ -23,6 +23,18 @@
       "name": "Akshay",
       "email": "akshay@gmail.com",
       "pass": "Akshay@123"
+    },
+    {
+      "id": "c18d",
+      "name": "Peter",
+      "email": "peter@gmail.com",
+      "pass": "Peter@123"
+    },
+    {
+      "id": "5483",
+      "name": "john",
+      "email": "john@gmail.com",
+      "pass": "John@123"
     }
   ],
   "Restaurant": [
@@ -36,9 +48,9 @@
     },
     {
       "id": "2",
-      "title": "KFC v.02",
+      "title": "KFC",
       "description": "Savor the exquisite flavors crafted by our talented chefs, blending tradition and innovation in every bite.",
-      "rating": "3",
+      "rating": "5",
       "location": "456 Food Street, Pune City"
     },
     {

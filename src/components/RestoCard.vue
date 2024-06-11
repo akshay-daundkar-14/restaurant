@@ -1,7 +1,7 @@
 <template>
 <div>
     <div class="card">
-        <img src="../assets/resto1.png" alt="Restaurant Image" class="card-image">
+        <img :src="getImageUrl(id)" alt="Restaurant Image" class="card-image">
         <div class="card-content">
             <h2 class="card-title">{{title}}</h2>
             <p class="card-description">{{description}}</p>
@@ -48,7 +48,18 @@ export default {
         description: String,
         location: String,
         rating: Number,
-        id:Number
+        id:{
+            type:Number,
+            required:true
+        }
+    },
+    methods:{
+        getImageUrl(id) {
+      // Compute the filename based on id
+      const filename = `resto${id - 1 + 2}.jpg`;
+      // Use require to resolve the path
+      return require(`@/assets/${filename}`);
+    }
     }
 }
 </script>
