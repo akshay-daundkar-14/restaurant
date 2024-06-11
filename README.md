@@ -1,7 +1,8 @@
 # resto-project
 
+## GIF Demo
 
-![Demo](./vdo.gif)
+![Demo](./assets/vdo.gif)
 
 
 ## Project setup
